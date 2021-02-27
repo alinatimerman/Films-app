@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Proiect Alina TIFF GUI", "Proiect Alina TIFF GUI.vcxproj", "{E1814091-C74C-46E8-A4D7-BA24F639598F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1814091-C74C-46E8-A4D7-BA24F639598F}.Debug|x64.ActiveCfg = Debug|x64
+		{E1814091-C74C-46E8-A4D7-BA24F639598F}.Debug|x64.Build.0 = Debug|x64
+		{E1814091-C74C-46E8-A4D7-BA24F639598F}.Release|x64.ActiveCfg = Release|x64
+		{E1814091-C74C-46E8-A4D7-BA24F639598F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF6E30DC-3D56-4CFA-A7E8-F52EA40F1AA3}
+	EndGlobalSection
+EndGlobal
